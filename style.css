@@ -1,0 +1,60 @@
+body {
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.cities {
+  display: flex;
+  flex-direction: column;
+}
+.weather-search {
+  padding: 0.375rem 2.5rem;
+}
+
+.btn-primary {
+  margin-top: 7px;
+  padding: 0.375rem 6.75rem;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+}
+.btn-secondary {
+  margin-top: 7px;
+  padding: 0.375rem 5.5rem;
+}
+.jumbotron-fluid {
+  display: flex;
+}
+
+#today {
+  border: 2px solid black;
+  padding: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 20px auto;
+}
+
+#forecast {
+   border: 2px solid black;
+
+}
+
+.card-deck {
+  margin-top: 5px;
+ 
+}
+
+.card-body{
+  background-color: #2D3E50;
+  color: white;
+}
+
+.card-title{
+  font-weight:bold;
+  
+}
+
+
